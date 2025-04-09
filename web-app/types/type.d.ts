@@ -32,8 +32,10 @@ export type Product = {
 };
 
 export interface SearchFilterProps {
-  setSearch: (query: string) => void;
-  setFilter: (category: string) => void;
+  search: string;
+  filter: string;
+  setSearch: (value: string) => void;
+  setFilter: (value: string) => void;
   categories: string[];
 }
 

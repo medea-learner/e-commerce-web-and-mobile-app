@@ -58,6 +58,8 @@ export default function ProductsPage() {
         categories={categories}
         setSearch={setSearch}
         setFilter={setFilter}
+        search={search}
+        filter={filter}
       />
 
       {filteredProducts.length === 0 ? (
