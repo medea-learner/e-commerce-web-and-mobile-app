@@ -101,7 +101,7 @@ Below is a snapshot of the mobile app’s file structure, which has been organiz
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/medea-learner/e-commerce-web-and-mobile-app.git
-   cd e-commerce-web-and-mobile-app
+   cd e-commerce-web-and-mobile-app/mobile-app
    ```
 
 2. **Install Dependencies:**
@@ -248,7 +248,7 @@ Authentication is handled using FakeStoreAPI’s login system, and Axios is used
 
 ```bash
 git clone https://github.com/medea-learner/e-commerce-web-and-mobile-app.git
-cd e-commerce-web-and-mobile-app
+cd e-commerce-web-and-mobile-app/web-app
 npm install
 ```
 
