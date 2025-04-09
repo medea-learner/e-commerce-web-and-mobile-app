@@ -1,0 +1,49 @@
+# ------------------------------
+# Web App (Next.js) Specific
+# ------------------------------
+web-app/.next/
+web-app/out/
+web-app/.vercel/
+web-app/node_modules/
+web-app/npm-debug.log*
+web-app/yarn-debug.log*
+web-app/yarn-error.log*
+web-app/pnpm-debug.log*
+web-app/package-lock.json
+web-app/yarn.lock
+web-app/logs/
+web-app/*.log
+web-app/.DS_Store
+web-app/Thumbs.db
+web-app/.env
+web-app/.env.*
+web-app/.env.local
+web-app/.env.development.local
+web-app/.env.test.local
+web-app/.env.production.local
+
+# ------------------------------
+# Mobile App (React Native / Expo) Specific
+# ------------------------------
+mobile-app/.expo/
+mobile-app/.expo-shared/
+mobile-app/ios/Pods/
+mobile-app/android/app/build/
+mobile-app/build/
+mobile-app/logs/
+mobile-app/*.log
+mobile-app/.DS_Store
+mobile-app/Thumbs.db
+mobile-app/node_modules/
+mobile-app/npm-debug.log*
+mobile-app/yarn-debug.log*
+mobile-app/yarn-error.log*
+mobile-app/pnpm-debug.log*
+mobile-app/package-lock.json
+mobile-app/yarn.lock
+mobile-app/.env
+mobile-app/.env.*
+mobile-app/.env.local
+mobile-app/.env.development.local
+mobile-app/.env.test.local
+mobile-app/.env.production.local
